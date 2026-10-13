@@ -1,0 +1,16 @@
+{
+	"description": "Plugin to watch Streams",
+	"author": "Superfan",
+	"homepage": "Superfan.tk",
+	"title": "Superstreams",
+	"synopsis": "A collection of streams",
+	"version": "4.1",
+	"file": "jiobyid.js",
+	"showtimeVersion": "5.0.300",
+	"type": "ecmascript",
+	"apiversion": 2,
+	"id": "jiotvbyid",
+	"icon": "logo.png",
+	"category": "video"
+	
+}
